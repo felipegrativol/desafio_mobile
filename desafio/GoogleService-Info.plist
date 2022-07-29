@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>288069578280-8m911u4o07o7d9vgo0es8p1k2nsij559.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.288069578280-8m911u4o07o7d9vgo0es8p1k2nsij559</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCRQxXbF9X0ahm2EkA0LE4csV9TW-jnbG8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>288069578280</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.desafio</string>
+	<key>PROJECT_ID</key>
+	<string>desafio-mobile-d20c5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>desafio-mobile-d20c5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:288069578280:ios:625d3cf53431b099108f1d</string>
+</dict>
+</plist>

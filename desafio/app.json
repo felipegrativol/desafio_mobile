@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "desafio",
+    "slug": "desafio",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins":[
+      "@react-native-firebase/app"
+    ],
+    "android": {
+      "package":"com.desafio",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier":"com.desafio",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    }
+  }
+}

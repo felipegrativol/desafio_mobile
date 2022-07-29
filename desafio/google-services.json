@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "288069578280",
+    "project_id": "desafio-mobile-d20c5",
+    "storage_bucket": "desafio-mobile-d20c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288069578280:android:c1f6e1cd8178dc6e108f1d",
+        "android_client_info": {
+          "package_name": "com.desafio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288069578280-0cuatnste2sq3r0qc9ioijg6blisrc9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpQel513axy1Xs95MXkDaCcdFyMKZCTiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288069578280-0cuatnste2sq3r0qc9ioijg6blisrc9g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "288069578280-8m911u4o07o7d9vgo0es8p1k2nsij559.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.desafio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
